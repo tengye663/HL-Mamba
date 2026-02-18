@@ -1,0 +1,61 @@
+Dataset,Class Name,Total Samples,Train Samples,Test Samples
+IndianPines,Alfalfa,46,1,45
+IndianPines,Corn-notill,1428,43,1385
+IndianPines,Corn-mintill,830,25,805
+IndianPines,Corn,237,7,230
+IndianPines,Grass-pasture,483,14,469
+IndianPines,Grass-trees,730,22,708
+IndianPines,Grass-pasture-mowed,28,1,27
+IndianPines,Hay-windrowed,478,14,464
+IndianPines,Oats,20,1,19
+IndianPines,Soybean-notill,972,29,943
+IndianPines,Soybean-mintill,2455,73,2382
+IndianPines,Soybean-clean,593,18,575
+IndianPines,Wheat,205,6,199
+IndianPines,Woods,1265,38,1227
+IndianPines,Buildings-Grass-Trees-Drives,386,12,374
+IndianPines,Stone-Steel-Towers,93,3,90
+IndianPines,Total,10249,307,9942
+PaviaUniversity,Asphalt,6631,33,6598
+PaviaUniversity,Meadows,18649,93,18556
+PaviaUniversity,Gravel,2099,10,2089
+PaviaUniversity,Trees,3064,15,3049
+PaviaUniversity,Painted metal sheets,1345,7,1338
+PaviaUniversity,Bare Soil,5029,25,5004
+PaviaUniversity,Bitumen,1330,7,1323
+PaviaUniversity,Self-Blocking Bricks,3682,18,3664
+PaviaUniversity,Shadows,947,5,942
+PaviaUniversity,Total,42776,213,42563
+Houston,Healthy grass,1251,13,1238
+Houston,Stressed grass,1254,13,1241
+Houston,Synthetic grass,697,7,690
+Houston,Trees,1244,12,1232
+Houston,Soil,1242,12,1230
+Houston,Water,325,3,322
+Houston,Residential,1268,13,1255
+Houston,Commercial,1244,12,1232
+Houston,Road,1252,13,1239
+Houston,Highway,1227,12,1215
+Houston,Railway,1235,12,1223
+Houston,Parking Lot 1,1233,12,1221
+Houston,Parking Lot 2,469,5,464
+Houston,Tennis Court,428,4,424
+Houston,Running Track,660,7,653
+Houston,Total,15029,150,14879
+WHU-Hi-HanChuan,Strawberry,44735,224,44511
+WHU-Hi-HanChuan,Cowpea,22753,114,22639
+WHU-Hi-HanChuan,Soybean,10287,51,10236
+WHU-Hi-HanChuan,Sorghum,5353,27,5326
+WHU-Hi-HanChuan,Water-spinach,1200,6,1194
+WHU-Hi-HanChuan,Watermelon,4533,23,4510
+WHU-Hi-HanChuan,Greens,5903,29,5874
+WHU-Hi-HanChuan,Trees,17978,90,17888
+WHU-Hi-HanChuan,Grass,9469,47,9422
+WHU-Hi-HanChuan,Red-roof,10516,52,10464
+WHU-Hi-HanChuan,Gray-roof,16911,84,16827
+WHU-Hi-HanChuan,Plastic,3679,18,3661
+WHU-Hi-HanChuan,Bare-soil,9116,46,9070
+WHU-Hi-HanChuan,Road,18560,93,18467
+WHU-Hi-HanChuan,Bright-object,1136,6,1130
+WHU-Hi-HanChuan,Water,75401,377,75024
+WHU-Hi-HanChuan,Total,257530,1287,256243
